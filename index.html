@@ -14,9 +14,9 @@
            alt="Black and White Dog Picture"
            class="nav-dog"/>
       <ul id="nav-links">
-        <li>How To Dog</li>
-        <li>What Is Dogs</li>
-        <li>Facts From Dog</li>
+        <li>How To Dog<span class="tooltiptext1">Teaches How</span></li>
+        <li>What Is Dogs<span class="tooltiptext2">Tells What</span></li>
+        <li>Facts From Dog<span class="tooltiptext3">Fun Facts</span></li>
       </ul>
     </div>
     <main id="content">
@@ -32,9 +32,17 @@
         <button type="button" id="name-change-button">Name This Dog</button>
       </div>
       <div class="column-change-form">
-        <p>Name</p>
-        <input type="text" id="column-change-box"/><br>
-        <button type="button" id="name-change-button">Name This Dog</button>
+        <p>Info About Your Dog</p>
+        <textarea name="text" id="column-change-box"></textarea><br><br>
+        <form>
+          <p>Select which column you'd like to update!</p>
+        <select>
+          <option class="option1" value="howToDog">How To Dog</option>
+          <option class="option2" value="whatIsDogs">What Is Dogs</option>
+          <option class="option3" value="factsFromDog">Facts From Dogs</option>
+        </select>
+      </form>
+        <button type="button" id="column-change-button">Update Info</button>
       </div>
      </div>
     </div>
