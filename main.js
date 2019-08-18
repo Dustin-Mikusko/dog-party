@@ -19,6 +19,7 @@ button1.addEventListener('click', function() {
      paraHow.hidden = true;
    } else {
      paraHow.hidden = false;
+
    }
 });
 

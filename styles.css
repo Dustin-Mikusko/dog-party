@@ -62,10 +62,17 @@ li {
   margin-right: 20px;
 }
 
-.dog-name-form {
+.input-forms {
+  float: left;
+  display: inline;
+  width: 48%;
+}
+
+.dog-name-form,
+.column-change-box {
   font-size: 20px;
   color: white;
-  width: 24%;
+  width: 45%;
   margin: auto;
   text-align: left;
   max-width: 400px;
@@ -78,8 +85,8 @@ li {
   }
 }
 
-#dog-name-box {
-  width: 100%;
+#dog-name-box,
+#column-change-box {
   height: 40px;
   font-size: 20px;
   font-family: "Open Sans", sans-serif;
@@ -134,12 +141,6 @@ form {
 
 }
 
-.columns {
-  /* height: auto; */
-  margin: 0px;
-
-}
-
 h2 {
   text-align: center;
   font-weight: 800;
@@ -162,7 +163,7 @@ h2 {
   float: left;
   margin: 1%;
   text-align: center;
-  margin-left: 3%;
+  margin-left: 3.5%;
   padding: 3%;
   position: relative;
   align-content: center;
