@@ -9,3 +9,4 @@ Dog Party is the first project assignment from Turing School of Software & Desig
 ### Screenshots of my Website:
 ![Top Half Screenshot](UNADJUSTEDNONRAW_thumb_132b.jpg)
 ![Bottom Half Screenshot](UNADJUSTEDNONRAW_thumb_132c.jpg)
+![Footer Screenshot](Image 8-18-19 at 6.36 PM.jpg)
