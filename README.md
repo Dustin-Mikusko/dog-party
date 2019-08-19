@@ -5,3 +5,6 @@ Dog Party is the first project assignment from Turing School of Software & Desig
 
 ### Comp:
 ![alt text](https://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-01.jpg)
+
+### Screenshots of my Website:
+![alt text](file:///Users/dustinmikusko/Pictures/Photos%20Library.photoslibrary/resources/proxies/derivatives/13/00/132b/UNADJUSTEDNONRAW_thumb_132b.jpg)
